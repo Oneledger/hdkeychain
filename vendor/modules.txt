@@ -1,0 +1,16 @@
+# github.com/bgadrian/go-mnemonic v0.0.0-20170924142112-3188dc747a1b
+github.com/bgadrian/go-mnemonic/bip39
+# github.com/btcsuite/btcd v0.20.0-beta
+github.com/btcsuite/btcd/btcec
+github.com/btcsuite/btcd/chaincfg
+github.com/btcsuite/btcd/chaincfg/chainhash
+github.com/btcsuite/btcd/wire
+# github.com/btcsuite/btcutil v0.0.0-20190425235716-9e5f4b9a998d
+github.com/btcsuite/btcutil
+github.com/btcsuite/btcutil/base58
+github.com/btcsuite/btcutil/bech32
+# golang.org/x/crypto v0.0.0-20191111213947-16651526fdb4
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/pbkdf2
+golang.org/x/crypto/ripemd160
+golang.org/x/crypto/ed25519/internal/edwards25519
